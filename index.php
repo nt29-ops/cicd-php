@@ -4,7 +4,7 @@
 
 <h1>Dev Team</h1>
 
-<?php echo "Welcome to Katalon Career Website 8"; ?>
+<?php echo "Welcome to Katalon Career Website 9"; ?>
   
 </body>
 </html> 
